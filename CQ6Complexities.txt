@@ -1,0 +1,10 @@
+CQ6 Complexities
+
+PlusMinus
+Time: O(n) For-loop based on input size
+Space: O(n)
+
+IceCreamParlor //Incomplete
+//Only Completes First Test Case
+Time: O(n^3) three nested for-loop
+Space: O(n)
